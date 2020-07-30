@@ -4,7 +4,7 @@ In this project we (me and my other 2 teammates: <a href="https://www.linkedin.c
 
 <ol>
   <li>Finding the top-hit cities by the Covid-19 in Iran, by implementing DBSCAN algorithm in Python to cluster a specific number of cities according to our future vaccine supplies</li>
-  <li>Finding which group of people should be prioretized, based on our Vaccine resources and based on the country's Education policy for closing / oppening schools and universities</li>
+  <li>Finding which group of people should be prioretized, based on our vaccine resources and based on the country's Education policy for whether closing or re-oppening schools and universities</li>
   <li>Finding dangerous Zones ( = most crowded zones) in the chosen cities in (1)</li>
 </ol>
 
