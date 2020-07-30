@@ -8,6 +8,7 @@ div {
 }
 </style>
 </head>
+  
 <body>
 In this project we (me and my other 2 teammates: <a href="https://www.linkedin.com/in/fatemeh-aligolzadeh-a431a11a7/" target="_blank">Fatemeh Aligolzadeh</a> and <a href="https://www.linkedin.com/in/seyyed-ali-ebadi-209558141/" target="_blank">Ali Ebadi</a>) had to see how to distribute the future vaccines for the Covid-19 disease in Iran using mobile communications techniques. If someone discovers the vaccine for the Covid-19 disease, then it will probably be produced for a limited number and will be prioritized to some high-risk people in most of the countries. Finding to which group of people should this vaccine be prioritized, is of significant importance in order to stop the current pandemic of the 21 st century. Therefore, our group narrowed down the main problem of distributing the Covid-19 vaccines to the following sub-problems:
 <ol>
